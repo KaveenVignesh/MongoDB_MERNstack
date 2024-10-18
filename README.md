@@ -11,37 +11,7 @@ Welcome to our comprehensive healthcare platform! Our website offers a seamless 
 ---
 
 
-<br>
 
-### 🛠️ Tools and technologies used :
-
-<div align=center>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=148dff" alt="react" /> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge&logo=Node.js&color=b3ffb0" alt="nodejs" /> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&color=008712" alt="express"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a>
-<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux-toolkit" /> </a>
-
-</div>
-
-<br>
-
-### 👋 Connect with me:
-
-<div align=center>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dunna-avinash)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avinash905)
-<a href="mailto:avinash.90527@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avinashdunna)
-
-</div>
-
-<br>
 
 ---
 
@@ -112,58 +82,6 @@ npm start
 ---
 
 <p align="right"><a href="#top">Back to Top</a></p>
-
-### Home page
-
-<img src="./client/src/images/full_pic.png" alt='home'/>
-
-### Sign up page
-
-<img src="./client/src/images/signup.png" alt='signup'/>
-
-### Sign in page
-
-<img src="./client/src/images/signin.png" alt='signin'/>
-
-### Profile page
-
-<img src="./client/src/images/profile.png" alt='profile'/>
-
-### All Doctors page
-
-<img src="./client/src/images/doctors.png" alt='doctors'/>
-
-### Apply for doctor page
-
-<img src="./client/src/images/docapply.png" alt='applyfordoctor'/>
-
-### Admin all users dashboard
-
-<img src="./client/src/images/users.png" alt='users'/>
-
-### Admin all applications page
-
-<img src="./client/src/images/applications.png" alt='applications'/>
-
-### Book Appointment page
-
-<img src="./client/src/images/bookappointment.png" alt='bookappointment'/>
-
-### Users all appointments page
-
-<img src="./client/src/images/userappointments.png" alt='appointments'/>
-
-### Doctors all appointments page
-
-<img src="./client/src/images/doctorappointments.png" alt='appointments'/>
-
-### Notifications page
-
-<img src="./client/src/images/notifications.png" alt='notifications'/>
-
----
-
-<br/>
 
 
 
