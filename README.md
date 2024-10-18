@@ -81,16 +81,5 @@ npm start
 
 ---
 
-<p align="right"><a href="#top">Back to Top</a></p>
-
-
-
-<br/>
-
----
-
----
-
-<p align="right"><a href="#top">Back to Top</a></p>
 
 </div>
